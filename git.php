@@ -1,9 +1,9 @@
 <?php
 // URL do arquivo no GitHub
-$fileUrl = 'https://github.com/download-office/downloadoffice/OBS_StudioV30.2.30.rar';
+$fileUrl = 'https://github.com/download-office/downloadoffice/coreldraw.png';
 
 // Nome sugerido para o arquivo baixado
-$fileName = 'OBS_StudioV30.2.30.rar';
+$fileName = 'coreldraw.png';
 
 // Inicializa o cURL
 $ch = curl_init($fileUrl);
